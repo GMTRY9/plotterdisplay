@@ -1,0 +1,5 @@
+wait for usb device input -> get instruction files as list
+
+pass instruction files as list to display interface class, simple class to scroll text etc
+display interface interacts with display - class for all complicated display pi i2c bs
+display interface receives print button press and passes filename to instruction executor
